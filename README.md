@@ -55,8 +55,8 @@ make
   * `malloc`, `open`, `read`, `write`, `close`, `exit`
 * 自作ライブラリ：
 
-  * [`get_next_line`]: 標準入力を1行ずつ読み込む関数
-  * [`ft_printf`]: printf互換関数
+  * `get_next_line`: 標準入力を1行ずつ読み込む関数
+  * `ft_printf`: printf互換関数
 
 ---
 
